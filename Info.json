@@ -1,0 +1,12 @@
+﻿{
+  "Id": "NoBlockingProjects",
+  "DisplayName": "Build All Projects",
+  "Author": "jonhinkerton",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "NoBlockingProjects.dll",
+  "EntryMethod": "NoBlockingProjects.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}

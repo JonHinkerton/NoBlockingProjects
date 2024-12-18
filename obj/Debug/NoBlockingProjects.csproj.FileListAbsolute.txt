@@ -1,0 +1,11 @@
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\bin\Debug\Info.json
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\bin\Debug\NoBlockingProjects.dll
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\bin\Debug\NoBlockingProjects.pdb
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.csproj.AssemblyReference.cache
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.IgnoresAccessChecksTo.cs
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.AssemblyInfoInputs.cache
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.AssemblyInfo.cs
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.dll
+C:\Users\Phil\source\repos\NoBlockingProjects\NoBlockingProjects\obj\Debug\NoBlockingProjects.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Or9BBLVC1s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phil\\source\\repos\\NoBlockingProjects\\NoBlockingProjects\\NoBlockingProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phil\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.2\\microsoft.netframework.referenceassemblies.net48.1.0.2.nupkg.sha512",
+    "C:\\Users\\Phil\\.nuget\\packages\\microutils.harmonyanalyzers\\1.3.1\\microutils.harmonyanalyzers.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
