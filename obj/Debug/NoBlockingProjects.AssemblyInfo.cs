@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Template Mod")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fb20e753e8abb8b09e231cd84b40f4ea9eaaa61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9d402a1133020691200a02986c1747aa2efca0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoBlockingProjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoBlockingProjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
